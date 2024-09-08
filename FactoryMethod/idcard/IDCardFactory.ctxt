@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=IDCardFactory
+comment0.text=\r\n\ This\ class\ express\ a\ ID\ card\ factory.\r\n\ \r\n\ @author\ Yuto\ Saito\r\n\ @version\ 08/09/2024\r\n
+comment1.params=owner
+comment1.target=framework.Product\ createProduct(java.lang.String)
+comment2.params=product
+comment2.target=void\ registerProduct(framework.Product)
+comment3.params=
+comment3.target=java.util.List\ getOwners()
+numComments=4

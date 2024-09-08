@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Factory
+comment0.text=\r\n\ This\ class\ express\ a\ factory.\r\n\ \r\n\ @author\ Yuto\ Saito\r\n\ @version\ 08/09/2024\r\n
+comment1.params=owner
+comment1.target=Product\ create(java.lang.String)
+comment1.text=\r\n\ Create\ product\ object\ \r\n\r\n\ @param\ owner\r\n\ @return\ product\r\n
+comment2.params=owner
+comment2.target=Product\ createProduct(java.lang.String)
+comment2.text=\r\n\ Create\ product\ \r\n\r\n\ @param\ owner\r\n\ @return\ product\r\n
+comment3.params=product
+comment3.target=void\ registerProduct(Product)
+comment3.text=\r\n\ Register\ created\ product\ \r\n\r\n\ @param\ product\r\n
+numComments=4
